@@ -15,6 +15,6 @@ About Me
 
 📫 Best ways to reach me: LinkedIn: https://www.linkedin.com/in/bishop-kammeraad-80593b204/, Email: kammeraa@umich.edu
 
-📋 Check out my Resume
+📋 Check out my Resume: https://github.com/porkedchop/Resumes
 
 ⚡ Fun Fact: I grew up a MSU fan, but ended up attending our rival.
