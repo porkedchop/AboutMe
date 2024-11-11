@@ -1,7 +1,7 @@
 # AboutMe
 Hello, I'm Bishop 👋
 
-I am a current student from The University of Michigan with a planned BS in Computer Science and a BS in Economics. Last summer, I had the opportunity to shadow a VP from Microsoft in Detroit, MI!
+I am a current student from The University of Michigan with a planned BS in Computer Science and a BS in Economics. Last summer, I had the opportunity to shadow a VP at Microsoft in Detroit, MI!
 
 About Me
 
