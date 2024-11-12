@@ -9,7 +9,7 @@ About Me
 
 🌱 I'm also studying for the Series 57 and Series 79 Exam!
 
-🔭 I’m currently working on personal projects, Leetcode challenges, and pursuing a Quantitative Finance career.
+🔭 I’m currently working on personal projects, Leetcode challenges, and pursuing a career in Quant or Private Equity.
 
 💬 Ask me about LEGOs! I play buy and sell collectible LEGOs in my spare time. My second-hand LEGO store is licensed under LEGO Group!
 
